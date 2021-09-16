@@ -6,6 +6,8 @@ Resources : https://www.kaggle.com/ayushggarg/all-trumps-twitter-insults-2015202
             
             https://matplotlib.org/
             
+            https://pandas.pydata.org/docs/
+            
             
 
 I have a data set regarding the tweets posted by Donald trump from 2014 to 2021. And I have performed several  exploratory analysis using pandas.
